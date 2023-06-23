@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hola, mi nombre es Oscar Quesda
 
-<!--
-**Kestaxx/kestaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Data analista, futuro desarrollador frontend y diseñador._ 
 
-Here are some ideas to get you started:
+***
+## ✔ Mis habilidades
+ **Conocimientos de limpieza de datos con Excel, SQL y visualización de datos con Power BI.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Habilidad | Nivel 
+|----------|----------
+| [![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://skillicons.dev) | Intermedio 
+| [![My Skills](https://skillicons.dev/icons?i=css&perline=1)](https://skillicons.dev)  | Intermedio
+| [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)  | Principiante
+| [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=1)](https://skillicons.dev)  | Principiante
+| [![My Skills](https://skillicons.dev/icons?i=git&perline=1)](https://skillicons.dev)   | Prinicipiante 
+| [![My Skills](https://skillicons.dev/icons?i=github&perline=1)](https://skillicons.dev)    | Principiante  
+
+***
+## 😎 Comandos mas usados en Linux
+
+
+| Dominio | Descripción 
+|----------|----------
+| cd   | Cambio de carpeta  
+| mkdir  | Crear una carpeta   
+| m.v   | Mover una carpeta  
+| touch    | Crear un archivo vacio   
+| cd ..   | Volver atras de una carpeta   
+
+***
+## 😃 Alias útiles
+
+| Dominio | Descripción 
+|----------|----------
+|  nvmy | Cambiar versión de nodo
+| push | Ejecuta el comando git push
